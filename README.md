@@ -12,12 +12,10 @@
 - [Architecture](#-architecture)
 - [Technologies](#-technologies)
 - [Prérequis](#-prérequis)
-- [Installation](#-installation)
 - [Pipeline DevOps](#-pipeline-devops)
 - [Déploiement](#-déploiement)
 - [Surveillance](#-surveillance)
 - [Documentation](#-documentation)
-- [Contributeurs](#-contributeurs)
 
 ## 🎯 Aperçu
 Ce projet implémente une solution DevOps complète pour une application moderne utilisant Spring Boot et Angular. Il met en œuvre les meilleures pratiques DevOps, de l'intégration continue au déploiement continu, en passant par la surveillance et l'observabilité.
